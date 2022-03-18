@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hdr1453-spec
 - 👀 I’m interested in ... coding, art, and cars
-- 🌱 I’m currently learning ... python and C+ 
+- 🌱 I’m currently learning ... python and java script 
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... 1453hdr@protonmail.com
+- 📫 How to reach me ... in discord HaidarDZ#1571
 - (im not really active in github, im active in repl.it user: hdr1453)
 
 <!---
